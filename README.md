@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao meu perfil! Meu nome é Boechat, sou programador front-end júnior.
+## Bem-vindo(a) ao meu perfil! Meu nome é Luiz Carlos Boechat, sou programador front-end júnior.
 
  <div>
    <a href="https://github.com/llboechat">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boechat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boechat&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llboechat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llboechat&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
